@@ -32,4 +32,5 @@ Distribuição das abordagens de navegação (modelos estáticos e semânticos) 
 
 Lista dos 94 artigos selecionados para o mapeamento sistemático, contendo o escore e o paradigma principal do trabalho, além dos principais dados: [link](papers_picoc_score_with_paradigm.xlsx).
 
+## Cite us
 
